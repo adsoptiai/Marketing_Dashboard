@@ -1,0 +1,19 @@
+# Web framework & data
+streamlit>=1.30
+pandas>=2.0
+plotly>=5.18
+
+# YouTube Data API v3
+google-api-python-client>=2.100
+
+# LLM Agent via OpenRouter (OpenAI-compatible SDK)
+openai>=1.0
+
+# LINE push
+line-bot-sdk>=3.5
+
+# Background scheduler
+apscheduler>=3.10
+
+# Env vars
+python-dotenv>=1.0
