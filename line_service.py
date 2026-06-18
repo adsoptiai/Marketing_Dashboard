@@ -74,6 +74,8 @@ def _markdown_to_line(text: str) -> str:
     text = re.sub(r"^---+$", "─" * 20, text, flags=re.MULTILINE)
     # 移除反引號
     text = re.sub(r"`(.+?)`", r"\1", text)
+    # 條列符號 - / * 開頭 → 縮排純文字（去掉符號）
+    text = re.sub(r"^[ \t]*[-*] (.+)$", r"  \1", text, flags=re.MULTILINE)
     # 多餘空行壓縮
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
