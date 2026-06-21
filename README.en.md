@@ -4,7 +4,7 @@
 
 > Collect trending short-form content across **YouTube, Instagram, Facebook, and Threads**, normalize it into a single data model, generate AI market-analysis reports, and push them to LINE — all from one local Streamlit app.
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
   <img alt="Tests" src="https://img.shields.io/badge/tests-24%20passing-brightgreen">

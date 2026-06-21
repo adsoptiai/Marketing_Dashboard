@@ -4,7 +4,7 @@
 
 > 整合 **YouTube、Instagram、Facebook、Threads** 的熱門短影音／貼文，正規化為統一資料模型，透過 LLM 自動生成市場分析報告，並可推播至 LINE —— 一個本地部署的 Streamlit 應用。
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
   <img alt="Tests" src="https://img.shields.io/badge/tests-24%20passing-brightgreen">
