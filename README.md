@@ -1,6 +1,6 @@
-# 跨平台社群內容情報儀表板
+<h1 align="center">跨平台社群內容情報儀表板</h1>
 
-**繁體中文** | [English](./README.en.md)
+<p align="center"><strong>繁體中文</strong> | <a href="./README.en.md">English</a></p>
 
 > 整合 **YouTube、Instagram、Facebook、Threads** 的熱門短影音／貼文，正規化為統一資料模型，透過 LLM 自動生成市場分析報告，並可推播至 LINE —— 一個本地部署的 Streamlit 應用。
 

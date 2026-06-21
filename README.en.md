@@ -1,6 +1,6 @@
-# Cross-Platform Social Content Intelligence Dashboard
+<h1 align="center">Cross-Platform Social Content Intelligence Dashboard</h1>
 
-[繁體中文](./README.md) | **English**
+<p align="center"><a href="./README.md">繁體中文</a> | <strong>English</strong></p>
 
 > Collect trending short-form content across **YouTube, Instagram, Facebook, and Threads**, normalize it into a single data model, generate AI market-analysis reports, and push them to LINE — all from one local Streamlit app.
 
